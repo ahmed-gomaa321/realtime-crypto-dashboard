@@ -1,0 +1,21 @@
+{
+  "Header": {
+    "title": "PulseTrade Engine",
+    "subtitle": "High-Frequency Real-Time Market Analytics"
+  },
+  "Status": {
+    "connected": "Live Data",
+    "connecting": "Connecting...",
+    "disconnected": "Disconnected",
+    "error": "Connection Error"
+  },
+  "Ticker": {
+    "high": "High",
+    "low": "Low",
+    "awaiting": "Awaiting stream..."
+  },
+  "Chart": {
+    "title": "Live Stream Chart",
+    "gathering": "Gathering live data points..."
+  }
+}
